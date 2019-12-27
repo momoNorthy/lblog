@@ -25,6 +25,9 @@ navbar-links:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
   博客园: "http://www.cnblogs.com/caiyuchen"
+  博主工具:
+    - 添加博客: "https://github.com/momoNorthy/lblog/new/master/_posts"
+    - 到达后台: "https://github.com/momoNorthy/lblog/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
