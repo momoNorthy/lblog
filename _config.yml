@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: 爱笑のMily
+title: 独玖-
 
 # Short description of your site
-description: 一个热爱高数和编程的学生
+description: 不哭不闹，独自走过属于我的玖月~
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -22,8 +22,9 @@ description: 一个热爱高数和编程的学生
 navbar-links:
   关于作者: "aboutme"
   资源:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - 美丽的Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - 学习Markdown: "http://www.markdowntutorial.com/"
+    - 路过图床: "https://imgchr.com/"
   博客园: "http://www.cnblogs.com/caiyuchen"
   博主工具:
     - 添加博客: "https://github.com/momoNorthy/lblog/new/master/_posts"
@@ -63,7 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: 爱笑のMily
+  name: 独玖-
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
